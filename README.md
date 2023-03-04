@@ -4,7 +4,6 @@
 
 <item>
 <title>[COLOR silver][B] WOLF PACK 1º TEMPORADA  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f3e9a5f9e95f9d780186ec05adad4ccad109b5a6</link>
 <link>https://www.terabox.com/portuguese/sharing/link?surl=tZP2P9ywcoFovkbCtcwYgw</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/rbCANmS1ogweUkIBghP03EHtdHB.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
